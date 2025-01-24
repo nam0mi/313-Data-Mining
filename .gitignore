@@ -8,3 +8,9 @@ env.bak/
 venv.bak/
 pyenv/
 myenv/
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+.vscode
